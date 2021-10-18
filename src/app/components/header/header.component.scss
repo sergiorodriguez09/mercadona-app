@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@500&display=swap');
+
+.container {
+    padding: 10px;
+    background-color: white;
+    font-family: "Karla";
+    width: 100%;
+}
+
+.li-item {
+    font-size: 20px;
+    padding: 10px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+.li-item img {
+    height: 65px;
+    width: 180px;
+    padding: 0 0 43px 0;
+}
+
+.home {
+    text-decoration: none;
+    color: #008f39;
+}
+
+.add {
+    text-decoration: none;
+    color: #008f39;
+}
